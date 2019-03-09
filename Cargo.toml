@@ -1,0 +1,6 @@
+[package]
+name = "lumos"
+version = "0.1.0"
+authors = ["Darryl Pargeter <darrylpargeter@gmail.com>"]
+
+[dependencies]
